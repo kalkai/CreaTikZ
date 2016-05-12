@@ -1,0 +1,4 @@
+\draw [line width=1pt] (127pt,141pt) ellipse (50pt and 50pt);
+\draw [line width=1pt] (315pt,127pt) ellipse (50pt and 50pt);
+\draw [line width=1pt] (189pt,196pt) rectangle (254pt,243pt);
+\draw [line width=1pt] (90pt,337pt) rectangle (375pt,373pt);
